@@ -1,0 +1,93 @@
+@charset "utf-8";
+/* CSS Document */
+
+.sampul {
+	overflow: hidden;
+	padding: 0;
+	max-width: 280px;
+	margin: 20px 25px;;
+}
+
+.kiri {
+	float: left;
+}
+
+.transisi {
+	-webkit-transition: all 1s ease-in-out;
+	-moz-transition: all 1s ease-in-out;
+	transition: all 1s ease-in-out;
+}
+
+.transisi2 {
+	-webkit-transition: all 1.5s ease-in-out;
+	-moz-transition: all 1.5s ease-in-out;
+	transition: all 1.5s ease-in-out;
+}
+
+.transisi3 {
+	-webkit-transition: all 2s ease-in-out;
+	-moz-transition: all 2s ease-in-out;
+	transition: all 2s ease-in-out;
+}
+
+.animasi {
+	position: relative;
+	animation-name: linearAnimation;
+	animation-duration: 0.5s;
+	animation-timing-function: linear;
+	animation-delay: 0s;
+	animation-iteration-count: 1;
+	animation-direction: alternate;
+	animation-play-state: running;
+}
+
+@keyframes linearAnimation {
+	0% {
+		right: 10px;
+		top: 0;
+	}
+	100% {
+		right: 0;
+		top: 0;
+	}
+}
+
+.gambar {
+	max-height: 280px;
+	display: block;
+	margin: auto;
+	width: 100%;
+	opacity: auto;
+}
+
+.kecil {
+	max-height: 140px;
+	display: block;
+	margin: auto;
+	width: 140px;
+	float: left;
+}
+ 
+.kecil2 {
+	max-height: 140px;
+	display: block;
+	margin: auto;
+	width: 140px;
+	float: right;
+}
+
+.kecil3 {
+	max-height: 140px;
+	display: block;
+	margin-top: 20px;
+	width: 140px;
+	float: left;
+}
+
+.kecil4 {
+	max-height: 140px;
+	display: block;
+	margin-top: 20px;
+	width: 140px;
+	float: right;
+}

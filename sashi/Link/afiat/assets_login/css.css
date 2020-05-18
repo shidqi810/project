@@ -1,0 +1,93 @@
+@charset "utf-8";
+/* CSS Document */
+
+#container {
+    width: 800px;
+    /* Change this value to customize the content area*/
+    margin: 0 auto;
+}
+
+body
+{
+	margin: 0px;
+	padding: 0px;
+	background-color: #1EC3F5;
+}
+
+.header
+{
+	width: 300px;
+	height: auto;
+	background-color: #464646;
+	padding: 30px 20px;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	position: absolute;
+	border-radius: 10px;
+	box-sizing: border-box;
+	box-shadow: 4px 4px 6px black;
+}
+
+.logo{
+    width: 79px;
+    height: 79px;
+    border-radius: 50px;
+    top: -16%;
+    right: 39%;
+    position: absolute;
+    box-shadow: 4px 4px 6px black;
+}
+
+.daftar{
+	color: whitesmoke;
+	padding-left: 30px;
+}
+
+h1{
+	color: white;
+	font-family: century gothic;
+	margin: 0px;
+}
+
+.header input{
+	widows: 100%;
+	margin-bottom: 10px;
+}
+
+.header input[type="text"], input[type="password"]{
+	height: 30px;
+	background: transparent;
+	border: none;
+	border-bottom: 1px solid #DBD147;
+	outline: none;
+	color: white;
+	-webkit-transition: all 0.30s ease-in-out;
+	-moz-transition: all 0.30s ease-in-out;
+	transition: all 0.30s ease-in-out;
+}
+
+.header input[type="text"]:focus, input[type="password"]:focus{
+	box-shadow: 0 0 5px #51CBEE;
+	outline: none;
+	padding: 3px 0 3px 3px;
+	margin: 5px 1px 3px 0;
+	border: 1px solid #51CBEE;
+}
+
+.header input[type="submit"]{
+	border-radius: 5px;
+	height: 40px;
+	background-color: #BCB22D;
+	outline: none;
+	color: white;
+	font-size: 25px;
+	font-weight: bold;
+	border: none;
+}
+
+.header input[type="submit"]:hover{
+	background-color: #72971C;
+	color: #FFFFFF;
+	cursor: pointer;
+}

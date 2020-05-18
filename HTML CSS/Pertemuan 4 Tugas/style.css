@@ -1,0 +1,86 @@
+.atas {
+	width: 79%;
+	height: 120px;
+	border: 8px solid;
+	background-color: skyblue;
+	border-radius: 50px 50px 0px 0px;
+	padding-right: 30px;
+	padding-left: 50px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 20px;
+}
+
+h1 {
+	font-family: timesnewroman;
+	text-align: center;
+	margin-top: 0;
+}
+
+.konten {
+	margin-top: 30px;
+	margin-bottom: 30px;
+	width: 81%;
+	height: 250px;
+	border: 8px solid;
+	background-color: skyblue;
+	padding-right: 20px;
+	padding-left: 30px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+h2 {
+	font-family: timesnewroman;
+	text-align: center;
+	margin-top: 0px;
+}
+
+.kiri {
+	width: 30%;
+	height: 170px;
+	border: 8px dashed;
+	border-color: red;
+	background-color: yellow;
+	margin-top: 35px;
+	margin-bottom: 20px;
+	margin-right: 5px;
+	float: left;
+}
+
+.tengah {
+	width: 30%;
+	height: 170px;
+	border: 8px dotted;
+	border-color: blue;
+	background-color: yellow;
+	margin-top: 35px;
+	margin-bottom: 20px;
+	margin-left: 10px;
+	margin-right: 10px;
+	float: left;
+}
+
+.kanan {
+	width: 30%;
+	height: 170px;
+	border: 8px dashed;
+	border-color: red;
+	background-color: yellow;
+	margin-top: 35px;
+	margin-bottom: 20px;
+	margin-left: 5px;
+	float: left;
+}
+
+.bawah {
+	width: 80%;
+	height: 120px;
+	border: 8px solid;
+	background-color: skyblue;
+	border-radius: 0px 0px 50px 50px;
+	padding-right: 30px;
+	padding-left: 30px;
+	margin-left: auto;
+	margin-right: auto;
+}

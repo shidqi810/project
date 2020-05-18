@@ -1,0 +1,138 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://startupdev.radenfatah.ac.id/yukkerja/index.html" resolutions="1x" timestamp="1558550055716">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="part-time.css" crc="3935281299" ref="part-time"/>
+    <file name="event-organizer.css" crc="192066107" ref="event-organizer"/>
+    <file name="cashier.css" crc="371138284" ref="cashier"/>
+    <file name="magang.css" crc="3812648914" ref="magang"/>
+    <file name="index.css" crc="420923755" ref="index"/>
+    <file name="tentang-yukkerja.css" crc="3933898154" ref="tentang-yukkerja"/>
+    <file name="team.css" crc="410592420" ref="team"/>
+    <file name="full-time.css" crc="4137981582" ref="full-time"/>
+    <file name="barberman.css" crc="3789548936" ref="barberman"/>
+    <file name="freelance.css" crc="3972135610" ref="freelance"/>
+    <file name="mvp.css" crc="503268129" ref="mvp"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:part-time:magang:full-time:freelance:event-organizer:barberman:cashier:tentang-yukkerja:team:mvp"/>
+    <file name="museutils.js" crc="340535759" ref="index:part-time:magang:full-time:freelance:event-organizer:barberman:cashier:tentang-yukkerja:team:mvp"/>
+    <file name="whatinput.js" crc="86476730" ref="index:part-time:magang:full-time:freelance:event-organizer:barberman:cashier:tentang-yukkerja:team:mvp"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:part-time:magang:full-time:freelance:event-organizer:barberman:cashier:tentang-yukkerja:team:mvp"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:part-time:magang:full-time:freelance:event-organizer:barberman:cashier:tentang-yukkerja:team:mvp"/>
+    <file name="webpro.js" crc="4059564322" ref="index:part-time:magang:full-time:freelance:event-organizer:barberman:cashier:tentang-yukkerja:team"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index:tentang-yukkerja:team"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index:tentang-yukkerja:team"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index:tentang-yukkerja:team"/>
+    <file name="form_check.php" crc="4020933626" ref="index"/>
+    <file name="form_throttle.php" crc="4259590256" ref="index"/>
+    <file name="form_process.php" crc="37464564" ref="index"/>
+    <file name="form-u4168.php" crc="4025216275" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index:part-time:magang:full-time:freelance:event-organizer:barberman:cashier:tentang-yukkerja:team:mvp"/>
+    <file name="form-u4861.php" crc="3923469682" ref="part-time"/>
+    <file name="form-u4747.php" crc="3747282" ref="magang"/>
+    <file name="form-u4804.php" crc="4187288920" ref="full-time"/>
+    <file name="form-u4975.php" crc="255379901" ref="freelance"/>
+    <file name="form-u5032.php" crc="4163214425" ref="event-organizer"/>
+    <file name="form-u5089.php" crc="3981104935" ref="barberman"/>
+    <file name="form-u5282.php" crc="3892066113" ref="cashier"/>
+    <file name="form-u4306.php" crc="63526453" ref="tentang-yukkerja"/>
+    <file name="form-u4690.php" crc="448213089" ref="team"/>
+  </folder>
+  <folder name="images">
+    <file name="yukkerja-favicon.ico" crc="4172488980" ref="index"/>
+    <file name="yukkerja.png" crc="3803234439" seo="true" ref="index:part-time:magang:full-time:freelance:event-organizer:barberman:cashier:tentang-yukkerja:team:mvp">
+      <caption webpage="tentang-yukkerja" alt=""/>
+      <caption webpage="part-time" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="magang" alt=""/>
+      <caption webpage="barberman" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="cashier" alt=""/>
+      <caption webpage="full-time" alt=""/>
+      <caption webpage="freelance" alt=""/>
+      <caption webpage="event-organizer" alt=""/>
+      <caption webpage="mvp" alt=""/>
+    </file>
+    <file name="launching.jpg" crc="4077746091" ref="index:tentang-yukkerja:team">
+      <caption webpage="index" alt=""/>
+      <caption webpage="tentang-yukkerja" alt=""/>
+      <caption webpage="team" alt=""/>
+    </file>
+    <file name="lembur.png" crc="474813085" seo="true" ref="index:tentang-yukkerja:team">
+      <caption webpage="index" alt=""/>
+      <caption webpage="tentang-yukkerja" alt=""/>
+      <caption webpage="team" alt=""/>
+    </file>
+    <file name="libur.png" crc="57057613" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="56666982_2170572186365982_2106671961831074135_n242x242.jpg" crc="4031408989" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="54512843_2298855453705705_5298134120897369073_n242x243.jpg" crc="3894191218" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="part-time-favicon.ico" crc="4172488980" ref="part-time"/>
+    <file name="magang-favicon.ico" crc="4172488980" ref="magang"/>
+    <file name="full-time-favicon.ico" crc="4172488980" ref="full-time"/>
+    <file name="freelance-favicon.ico" crc="4172488980" ref="freelance"/>
+    <file name="event-organizer-favicon.ico" crc="4172488980" ref="event-organizer"/>
+    <file name="barberman-favicon.ico" crc="4172488980" ref="barberman"/>
+    <file name="56666982_2170572186365982_2106671961831074135_n.jpg" crc="4249242723" seo="true" ref="barberman">
+      <caption webpage="barberman" alt=""/>
+    </file>
+    <file name="cashier-favicon.ico" crc="4172488980" ref="cashier"/>
+    <file name="54512843_2298855453705705_5298134120897369073_n.jpg" crc="93282262" seo="true" ref="cashier">
+      <caption webpage="cashier" alt=""/>
+    </file>
+    <file name="tentang-yukkerja-favicon.ico" crc="4172488980" ref="tentang-yukkerja"/>
+    <file name="team-favicon.ico" crc="4172488980" ref="team"/>
+    <file name="login.jpg" crc="189522682" seo="true" ref="mvp">
+      <caption webpage="mvp" alt=""/>
+    </file>
+    <file name="register.jpg" crc="4151466607" seo="true" ref="mvp">
+      <caption webpage="mvp" alt=""/>
+    </file>
+    <file name="home.jpg" crc="4228917953" seo="true" ref="mvp">
+      <caption webpage="mvp" alt=""/>
+    </file>
+    <file name="banner 2.jpg" crc="317860737" seo="true" ref="mvp">
+      <caption webpage="mvp" alt=""/>
+    </file>
+    <file name="banner 3.jpg" crc="251713422" seo="true" ref="mvp">
+      <caption webpage="mvp" alt=""/>
+    </file>
+    <file name="menu.jpg" crc="268750823" seo="true" ref="mvp">
+      <caption webpage="mvp" alt=""/>
+    </file>
+    <file name="part time.jpg" crc="347453062" seo="true" ref="mvp">
+      <caption webpage="mvp" alt=""/>
+    </file>
+    <file name="barberman.jpg" crc="4204111738" seo="true" ref="mvp">
+      <caption webpage="mvp" alt=""/>
+    </file>
+    <file name="cashier.jpg" crc="4090448295" seo="true" ref="mvp">
+      <caption webpage="mvp" alt=""/>
+    </file>
+    <file name="chat.jpg" crc="409082809" seo="true" ref="mvp">
+      <caption webpage="mvp" alt=""/>
+    </file>
+    <file name="notifikasi.jpg" crc="4067243969" seo="true" ref="mvp">
+      <caption webpage="mvp" alt=""/>
+    </file>
+    <file name="tentang.jpg" crc="162531392" seo="true" ref="mvp">
+      <caption webpage="mvp" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4199412734" seo="true" mt="1558549913362" redirect="true"/>
+  <file name="part-time.html" crc="319283764" seo="true" mt="1554907995176" redirect="true"/>
+  <file name="magang.html" crc="3864490393" seo="true" mt="1558533323692" redirect="true"/>
+  <file name="full-time.html" crc="444255551" seo="true" mt="1558533331179" redirect="true"/>
+  <file name="freelance.html" crc="189142638" seo="true" mt="1558533338310" redirect="true"/>
+  <file name="event-organizer.html" crc="4064345106" seo="true" mt="1558533349939" redirect="true"/>
+  <file name="barberman.html" crc="524393801" seo="true" mt="1555227698162" redirect="true"/>
+  <file name="cashier.html" crc="462602560" seo="true" mt="1555227753918" redirect="true"/>
+  <file name="tentang-yukkerja.html" crc="26929891" seo="true" mt="1558532181766" redirect="true"/>
+  <file name="team.html" crc="4048988225" seo="true" mt="1558532181780" redirect="true"/>
+  <file name="mvp.html" crc="112921446" seo="true" mt="1558549207218" redirect="true"/>
+</manifest>

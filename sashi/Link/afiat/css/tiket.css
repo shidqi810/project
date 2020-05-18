@@ -1,0 +1,273 @@
+.version.tiket /* version checker */
+{
+	color: #0000FC;
+	background-color: #A21975;
+}
+
+#page
+{
+	z-index: 1;
+	min-height: 438px;
+	background-image: none;
+	border-width: 0px;
+	border-color: #000000;
+	background-color: transparent;
+	padding-bottom: 62px;
+	width: 100%;
+	max-width: 960px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#u5306
+{
+	z-index: 3;
+	min-height: 82px;
+	background-color: #2E82AF;
+	padding-bottom: 18px;
+}
+
+#u5306_align_to_page
+{
+	margin-left: auto;
+	margin-right: auto;
+	position: relative;
+	max-width: 960px;
+}
+
+#u5307
+{
+	z-index: 4;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 20px;
+	width: 20.11%;
+	left: 2.09%;
+}
+
+#buttonu6638
+{
+	z-index: 22;
+	border-color: #787878;
+	background-color: #666666;
+	border-radius: 10px;
+	padding-bottom: 10px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 32px;
+	width: 15.94%;
+	left: 64.48%;
+}
+
+#buttonu6638.ButtonSelected
+{
+	background-color: #666666;
+	min-height: 0px;
+	width: 15.94%;
+	margin: 32px -10000px 0px 0%;
+}
+
+#u6639-4
+{
+	z-index: 23;
+	min-height: 18px;
+	background-color: transparent;
+	line-height: 14px;
+	font-size: 12px;
+	text-align: center;
+	color: #FFFFFF;
+	letter-spacing: 1px;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 9px;
+	width: 77.78%;
+	left: 11.12%;
+}
+
+#buttonu6636
+{
+	z-index: 17;
+	border-color: #787878;
+	background-color: #666666;
+	border-radius: 10px;
+	padding-bottom: 10px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 32px;
+	width: 15.94%;
+	left: 81.98%;
+}
+
+#buttonu6636:hover
+{
+	background-color: #141414;
+	min-height: 0px;
+	width: 15.94%;
+	margin: 32px -10000px 0px 0%;
+}
+
+#u6637-4
+{
+	z-index: 18;
+	min-height: 18px;
+	background-color: transparent;
+	line-height: 14px;
+	font-size: 12px;
+	text-align: center;
+	color: #FFFFFF;
+	letter-spacing: 1px;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 9px;
+	width: 77.78%;
+	left: 11.12%;
+}
+
+#buttonu6638.ButtonSelected #u6639-4,#buttonu6636:hover #u6637-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 18px;
+	width: 77.78%;
+	margin: 9px -10000px 0px 0%;
+}
+
+.js body
+{
+	visibility: hidden;
+}
+
+.js body.initialized
+{
+	visibility: visible;
+}
+
+#u5306-bw
+{
+	z-index: 3;
+	min-height: 82px;
+}
+
+#u5305
+{
+	z-index: 2;
+	min-height: 691px;
+	background-color: #F5F5F5;
+}
+
+#u5305_align_to_page
+{
+	margin-left: auto;
+	margin-right: auto;
+	position: relative;
+	max-width: 960px;
+	padding-top: 21px;
+	padding-bottom: 16px;
+}
+
+#u5358-4
+{
+	z-index: 8;
+	min-height: 32px;
+	background-color: transparent;
+	font-size: 30px;
+	line-height: 36px;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+	position: relative;
+	width: 57.82%;
+	left: 2.09%;
+}
+
+#buttonu6448
+{
+	z-index: 12;
+	border-color: #787878;
+	background-color: #666666;
+	border-radius: 10px;
+	padding-bottom: 11px;
+	margin-top: 15px;
+	position: relative;
+	width: 23.55%;
+	left: 2.09%;
+}
+
+#buttonu6448:hover
+{
+	background-color: #141414;
+	min-height: 0px;
+	width: 23.55%;
+	margin: 15px 0px 0px 0%;
+}
+
+#u6449-4
+{
+	z-index: 13;
+	min-height: 23px;
+	background-color: transparent;
+	font-size: 14px;
+	text-align: center;
+	color: #FFFFFF;
+	letter-spacing: 1px;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 12px;
+	width: 67.26%;
+	left: 16.38%;
+}
+
+#buttonu6448:hover #u6449-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 23px;
+	width: 67.26%;
+	margin: 12px -10000px 0px 0%;
+}
+
+#buttonu6638.ButtonSelected #u6639-4 p,#buttonu6636:hover #u6637-4 p,#buttonu6448:hover #u6449-4 p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+#u5348
+{
+	z-index: 6;
+	background-color: transparent;
+	margin-top: 15px;
+	position: relative;
+	width: 95.84%;
+	left: 2.09%;
+}
+
+#u5307_img,#u5348_img
+{
+	width: 100%;
+}
+
+#u5305-bw
+{
+	z-index: 2;
+	min-height: 691px;
+}
+
+.css_verticalspacer .verticalspacer
+{
+	height: calc(100vh - 851px);
+}
+
+#muse_css_mq,.html
+{
+	background-color: #FFFFFF;
+}
+
+body
+{
+	position: relative;
+	min-width: 320px;
+}
+

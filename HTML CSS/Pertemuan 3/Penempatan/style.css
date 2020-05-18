@@ -1,0 +1,13 @@
+body {
+	font-family: arial;
+}
+
+h1 {
+	color: red;
+	text-align: center;
+}
+
+p {
+	line-height: 1.6em;
+	color: gold;
+}

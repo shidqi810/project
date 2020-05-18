@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Bootstrap</title>
+
+	<link rel="stylesheet" type="text/css" href="css/bootstrap-grid.css">
+	<link rel="stylesheet" type="text/css" href="css/bootstrap-reboot.css">
+	<link rel="stylesheet" type="text/css" href="css/bootstrap.css">
+
+	<script src="js/bootstrap.bundle.js"></script>
+	<script src="js/jquery.js"></script>
+	<script src="js/jquery.slim.js"></script>
+	<script src="js/bootstrap.js"></script>
+
+	<link rel="stylesheet" type="text/css" href="fontawesome/css/all.css">
+	<link rel="stylesheet" type="text/css" href="fontawesome/css/fontawesome.css">
+</head>
+<body>
+	<div class="pl-3 pr-3 shadow pb-4">
+		<img src="img/logo.png" class="pt-4 float-left">
+
+		<div class="media justify-content-end">
+			<ul class="nav align-self-start">
+			  <li class="nav-item">
+			    <a class="nav-link active" href="#">Gift Card</a>
+			  </li>
+			  <li class="nav-item">
+			    <a class="nav-link" href="#">Track Order</a>
+			  </li>
+			  <li class="nav-item">
+			    <a class="nav-link" href="#">Contact Us</a>
+			  </li>
+			</ul>
+		</div>
+		<div class="media justify-content-end">
+			<form class="form-inline align-self-end">
+				<span class="form-control">
+					<input class="border-0 pr-5" type="search" placeholder="Search">
+					<a href="#">
+						<i class="fas fa-search"></i>
+					</a>
+				</span>
+			</form>
+		</div>
+	</div>
+
+	<!-- ini untuk mengatur jarak dan warna nya -->
+	<div class="m-4 bg-primary pt-2 pb-2">
+		<b>
+			<!-- ini untuk mengatur content nya berada di tengah -->
+			<ul class="nav justify-content-center">
+				<!-- mr-5 digunakan untuk memberi jarak antar menu -->
+				<li class="nav-item mr-5">
+					<a class="text-white nav-link" href="#">Home</a>
+				</li>
+				<li class="nav-item mr-5">
+				<a class="text-white nav-link" href="#">Shop</a>
+				</li>
+				<li class="nav-item mr-5">
+					<a class="text-white nav-link" href="#">Blog</a>
+				</li>
+				<li class="nav-item mr-5">
+					<a class="text-white nav-link" href="#">About Us</a>
+				</li>
+			</ul>
+		</b>
+	</div>
+
+	<!-- ini berfungsi untuk memberikan margin ke seluruh sisi sebanyak 4 -->
+	<!-- lalu di beri padding top dan bottom sebanyak 2 jg -->
+	<div class="m-4 pt-2 pb-2">
+		<!-- pakai class row agar bisa menggunakan grid sistem -->
+		<div class="row">
+			<!-- ukuran penuh dari sebuah grid itu ada 12. jadi kalau mau buat yg di tengah nya penuh. kita buat secara simetris -->
+			<!-- ini untuk side bar kiri -->
+			<div class="col-lg-2">
+				<div class="text-white">
+					<ul class="list-group list-group-flush">
+						<li class="bg-secondary list-group-item">Section 1</li>
+						<li class="bg-secondary list-group-item">Section 2</li>
+						<li class="bg-secondary list-group-item">Section 3</li>
+						<li class="bg-secondary list-group-item">Section 4</li>
+						<li class="bg-secondary list-group-item">Section 5</li>
+						<li class="bg-secondary list-group-item">Section 6</li>
+						<li class="bg-secondary list-group-item">Section 7</li>
+						<li class="bg-secondary list-group-item">Section 8</li>
+						<li class="bg-secondary list-group-item">Section 9</li>
+						<li class="bg-secondary list-group-item">Section 10</li>
+						<li class="bg-secondary list-group-item">Section 11</li>
+						<li class="bg-secondary list-group-item">Section 12</li>
+						<li class="bg-secondary list-group-item">Section 13</li>
+						<li class="bg-secondary list-group-item">Section 14</li>
+						<li class="bg-secondary list-group-item">Section 15</li>
+					</ul>
+				</div>
+			</div>
+
+			<!-- ini untuk bagian tengah -->
+			<div class="col-lg-8">
+				<div class="shadow mb-4">
+					<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+					  <ol class="carousel-indicators">
+					    <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+					    <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+					    <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+					  </ol>
+					  <div class="carousel-inner">
+					    <div class="carousel-item active">
+					      <a href="img/1.jpg">
+					      	<img src="img/1.jpg" class="d-block w-100">
+					      </a>
+					    </div>
+					    <div class="carousel-item">
+					      <a href="img/2.jpg">
+					      	<img src="img/2.jpg" class="d-block w-100">
+					      </a>
+					    </div>
+					    <div class="carousel-item">
+					      <a href="img/3.jpg">
+					      	<img src="img/3.jpg" class="d-block w-100">
+					      </a>
+					    </div>
+					  </div>
+					  <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+					    <span class="carousel-control-prev-icon bg-primary" aria-hidden="true"></span>
+					    <span class="sr-only">Previous</span>
+					  </a>
+					  <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+					    <span class="carousel-control-next-icon bg-primary" aria-hidden="true"></span>
+					    <span class="sr-only">Next</span>
+					  </a>
+					</div>
+				</div>
+
+				<div class="row">
+					<div class="card-deck">
+						<div class="col-lg-4">
+							<div class="card">
+								<a href="img/4.jpg">
+									<img src="img/4.jpg" class="card-img-top">
+								</a>
+								<div class="card-body">
+									<a href="#">
+										<div class="shadow rounded-circle float-right p-1 px-2 bg-danger text-white">
+											<i class="fas fa-heart"></i>
+										</div>
+									</a>
+									<h5 class="card-title">Design Grafis</h5>
+									<p class="card-text">Rp. 60.000</p>
+									<button type="button" class="btn btn-success">Beli !</button>
+									<button type="button" class="btn btn-primary">
+										<i class="fas fa-cart-plus"></i>
+									</button>
+								</div>
+							</div>
+						</div>
+
+						<div class="col-lg-4">
+							<div class="card">
+								<a href="img/5.jpg">
+									<img src="img/5.jpg" class="card-img-top">
+								</a>
+								<div class="card-body">
+									<a href="#">
+										<div class="shadow rounded-circle float-right p-1 px-2 bg-danger text-white">
+											<i class="fas fa-heart"></i>
+										</div>
+									</a>
+									<h5 class="card-title">User Interface</h5>
+									<p class="card-text">Rp. 80.000</p>
+									<button type="button" class="btn btn-success">Beli !</button>
+									<button type="button" class="btn btn-primary">
+										<i class="fas fa-cart-plus"></i>
+									</button>
+								</div>
+							</div>
+						</div>
+
+						<div class="col-lg-4">
+							<div class="card">
+								<a href="img/6.png">
+									<img src="img/6.png" class="card-img-top">
+								</a>
+								<div class="card-body">
+									<a href="#">
+										<div class="shadow rounded-circle float-right p-1 px-2 bg-danger text-white">
+											<i class="fas fa-heart"></i>
+										</div>
+									</a>
+									<h5 class="card-title">Website</h5>
+									<p class="card-text">Rp. 500.000</p>
+									<button type="button" class="btn btn-success">Beli !</button>
+									<button type="button" class="btn btn-primary">
+										<i class="fas fa-cart-plus"></i>
+									</button>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+
+			<!-- ini untuk sidebar kanan -->
+			<div class="col-lg-2">
+				<div class="text-white mb-5 bg-danger pb-5">
+					<ul class="list-group list-group-flush bg-danger pb-5">
+						<li class="bg-danger list-group-item">Feature 1</li>
+						<li class="bg-danger list-group-item">Feature 2</li>
+						<li class="bg-danger list-group-item">Feature 3</li>
+						<li class="bg-danger list-group-item">Feature 4</li>
+						<li class="bg-danger list-group-item">Feature 5</li>
+						<li class="bg-danger list-group-item pb-5">Feature 6</li>
+					</ul>
+				</div>
+
+				<div class="bg-primary pb-5 mb-5 container text-white">
+					<p class="pt-3">External Link</p>
+					<a href="https://sashi.id/">
+						<p class="mb-5 text-white">https://sashi.id/</p>
+					</a>
+				</div>
+			</div>
+		</div>
+	</div>
+
+</body>
+</html>

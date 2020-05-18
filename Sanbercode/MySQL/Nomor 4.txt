@@ -1,0 +1,7 @@
+a. Mengambil data users
+SELECT name, email FROM users;
+
+b. Mengambil data items
+SELECT * FROM items WHERE price > 1000000;
+
+SELECT * FROM items WHERE name LIKE "uniklo" OR nama LIKE "watch" OR nama LIKE "sang";

@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>String Exercises</title>
+    <style>
+        li {
+            margin-bottom: 30px;
+        }
+
+        label {
+            font-weight: bold;
+        }
+
+
+       
+    </style>
+</head>
+<body>
+    <h1>Latihan String</h1>
+    <ol>
+        
+        <li  style="margin-bottom: 10px;">
+            <label for="formSentence"> Form Sentence</label>
+            <p id="formSentence"></p>
+        </li>
+        <li>
+            <label for="breakSentence" >Break Sentence</label>
+            <p id="firstWord"></p> 
+            <p id="secondWord"></p> 
+            <p id="thirdWord"></p> 
+            <p id="fourthWord"></p> 
+            <p id="fifthWord"></p> 
+        </li>
+        <li id="breakWord">
+            <label for="breakWord" >Break Word</label>
+            <p id="firstWord3"></p> 
+            <p id="secondWord3"></p> 
+            <p id="thirdWord3"></p> 
+            <p id="fourthWord3"></p> 
+            <p id="fifthWord3"></p> 
+        </li>
+        <li id="breakWordWithLength">
+            <label for="breakWordWithLength">Break Word with Length</label>
+            <p id="firstWord4"></p> 
+            <p id="secondWord4"></p> 
+            <p id="thirdWord4"></p> 
+            <p id="fourthWord4"></p> 
+            <p id="fifthWord4"></p>  
+        </li>
+    </ol>
+</body>
+
+<script>
+    // Soal No. 1
+    var word = 'JavaScript';
+    var second = 'is';
+    var third = 'awesome';
+    var fourth = 'and';
+    var fifth = 'I';
+    var sixth = 'love';
+    var seventh = 'it!';
+
+    // Buatlah agar kata-kata di atas menjadi kalimat dalam variabel string dengan nama sentence
+    var sentence = word + " " + second + " " + third + " " + fourth + " " +fifth + " " + sixth + " " + seventh //Edit variabel ini
+
+    document.getElementById("formSentence").innerHTML = sentence
+
+    // Soal No. 2 
+    var newSentence = 'wow JavaScript is so cool';
+    var exampleFirstWord = newSentence[0] + newSentence[1] + newSentence[2];
+    var secondWord = newSentence[4] + newSentence[5] + newSentence[6] + newSentence[7] + newSentence[8] + newSentence[9] + newSentence[10] + newSentence[11] + newSentence[12] + newSentence[13];
+    var thirdWord = newSentence[15] + newSentence[16];
+    var fourthWord = newSentence[18] + newSentence[19];
+    var fifthWord = newSentence[21] + newSentence[22] + newSentence[23] + newSentence[24];
+
+    document.getElementById("firstWord").innerHTML = "First Word: " + exampleFirstWord 
+    document.getElementById("secondWord").innerHTML = "Second Word: " + secondWord
+    document.getElementById("thirdWord").innerHTML = "Third Word: " + thirdWord
+    document.getElementById("fourthWord").innerHTML = "Fourth Word: " + fourthWord
+    document.getElementById("fifthWord").innerHTML = "Fifth Word: " + fifthWord
+
+    // Soal No. 3 
+    var word3 = 'wow JavaScript is so cool';
+    var exampleFirstWord3 = word3.substring(0, 3);
+    var secondWord3 = word3.substring(4, 14);
+    var thirdWord3 = word3.substring(15, 17);
+    var fourthWord3 = word3.substring(18, 20);
+    var fifthWord3 = word3.substring(21, 25);
+
+    document.getElementById("firstWord3").innerHTML = "First Word : " + exampleFirstWord3 
+    document.getElementById("secondWord3").innerHTML = "Second Word : " + secondWord3
+    document.getElementById("thirdWord3").innerHTML = "Third Word : " + thirdWord3
+    document.getElementById("fourthWord3").innerHTML = "Fourth Word : " + fourthWord3
+    document.getElementById("fifthWord3").innerHTML = "Fifth Word : " + fifthWord3
+
+
+    // Soal No. 4
+    var word4 = 'wow JavaScript is so cool';
+    var exampleFirstWord4 = word4.substring(0, 3);
+    var secondWord4 = word4.substring(4, 14);
+    var thirdWord4 = word4.substring(15, 17);
+    var fourthWord4 = word4.substring(18, 20);
+    var fifthWord4 = word4.substring(21, 25);
+
+    var firstWordLength = exampleFirstWord4.length;
+    var secondWordLength = secondWord4.length;
+    var thirdWordLength = thirdWord4.length;
+    var fourthWordLength = fourthWord4.length;
+    var fifthWordLength = fifthWord4.length;
+    // Buat variabel baru di sini untuk mendapatkan panjang dari suatu kata
+    
+    
+    document.getElementById("firstWord4").innerHTML = "First Word : " + exampleFirstWord4 + ', with length: ' + firstWordLength;
+    document.getElementById("secondWord4").innerHTML = "Second Word : " + secondWord4 + ', with length: ' + secondWordLength;
+    document.getElementById("thirdWord4").innerHTML = "Third Word : " + thirdWord4 + ', with length: ' + thirdWordLength;
+    document.getElementById("fourthWord4").innerHTML = "Fourth Word : " + fourthWord4 + ', with length: ' + fourthWordLength;
+    document.getElementById("fifthWord4").innerHTML = "Fifth Word : " + fifthWord4 + ', with length: ' + fifthWordLength;
+
+</script>
+</html>

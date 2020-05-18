@@ -1,0 +1,15 @@
+h1 {
+	color: #20b2aa;
+	text-align: center;
+	font-family: verdana, arial, sans-serif;
+	font-size: 100px;
+	font-weight: bold;
+	font-variant: small-caps;
+	font-style: italic;
+}
+
+p {
+	font-family: georgia, serif;
+	line-height: 50px;
+	color: gold;
+}

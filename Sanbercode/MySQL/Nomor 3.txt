@@ -1,0 +1,15 @@
+INSERT INTO users (id,name,email,password) 
+VALUES (NULL,'John Doe','john@doe.com',MD5('john123')), 
+(NULL,'Jane Doe','jane@ode.com',MD5('jenita123'));
+
+INSERT INTO categories (id,name) 
+VALUES (NULL,'gadget'), 
+(NULL,'cloth'),
+(NULL,'men'),
+(NULL'women'),
+(NULL'branded');
+
+INSERT INTO items (id,name,description,price,stock,category_id) 
+VALUES (NULL,'Sumsang b50','hape keren dari merek sumsang','4000000','100',NULL), 
+(NULL,'Uniklooh','baju keren dari brand ternama','500000','50',NULL),
+(NULL'IMHO Watch','jam tangan anak yang jujur banget','2000000','10',NULL);

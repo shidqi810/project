@@ -1,0 +1,24 @@
+body {
+	font-family: verdana, arial, sans-serif;
+}
+
+.untuk-heading {
+	color: silver;
+	text-align: center;
+	font-size: 100px;
+	font-weight: bold;
+	font-variant: small-caps;
+	text-decoration: underline;
+	text-transform: uppercase;
+}
+
+#untuk-p {
+	text-align: center;
+	text-transform: capitalize;
+	word-spacing: 5px;
+}
+
+#a {
+	text-decoration: none;
+	text-transform: lowercase;
+}

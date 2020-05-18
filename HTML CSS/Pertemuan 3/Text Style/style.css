@@ -1,0 +1,21 @@
+h1 {
+	color: silver;
+	text-align: center;
+	font-family: verdana, arial, sans-serif;
+	font-size: 100px;
+	font-weight: bold;
+	font-variant: small-caps;
+	text-decoration: underline;
+	text-transform: uppercase;
+}
+
+p {
+	text-align: center;
+	text-transform: capitalize;
+	word-spacing: 5px;
+}
+
+a {
+	text-decoration: none;
+	text-transform: lowercase;
+}

@@ -1,0 +1,117 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Afiat.com" resolutions="1x" timestamp="1561122716641">
+  <folder name="css">
+    <file name="site_global.css" crc="4038565194"/>
+    <file name="home-afiat.css" crc="176466193" ref="home-afiat"/>
+    <file name="tiket.css" crc="4238481781" ref="tiket"/>
+    <file name="pilih-jam-kerja-siang.css" crc="4282349011" ref="pilih-jam-kerja-siang"/>
+    <file name="pilih-jam-kerja-pagi-afiat.css" crc="514801845" ref="pilih-jam-kerja-pagi-afiat"/>
+    <file name="pilih-dokter.css" crc="4072123180" ref="pilih-dokter"/>
+    <file name="pilih-jam-kerja-malam.css" crc="4242094607" ref="pilih-jam-kerja-malam"/>
+    <file name="pilih-jam-kerja-siang-afiat.css" crc="96927767" ref="pilih-jam-kerja-siang-afiat"/>
+    <file name="pilih-jam-kerja-pagi.css" crc="164440283" ref="pilih-jam-kerja-pagi"/>
+    <file name="rumah-sakit.css" crc="134725312" ref="rumah-sakit"/>
+    <file name="rumah-sakit-afiat.css" crc="4225160990" ref="rumah-sakit-afiat"/>
+    <file name="pilih-waktu.css" crc="342513563" ref="pilih-waktu"/>
+    <file name="pilih-hari.css" crc="4289648063" ref="pilih-hari"/>
+    <file name="pilih-jam-kerja-malam-afiat.css" crc="3924206849" ref="pilih-jam-kerja-malam-afiat"/>
+    <file name="index.css" crc="3982118249" ref="index"/>
+    <file name="pilih-dokter-afiat.css" crc="4058613230" ref="pilih-dokter-afiat"/>
+    <file name="pilih-hari-afiat.css" crc="4040908609" ref="pilih-hari-afiat"/>
+    <file name="pilih-waktu-afiat.css" crc="76227057" ref="pilih-waktu-afiat"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="rumah-sakit:pilih-dokter:pilih-hari:pilih-jam-kerja-pagi:pilih-waktu:index:tiket:pilih-jam-kerja-siang:pilih-jam-kerja-malam:rumah-sakit-afiat:pilih-dokter-afiat:pilih-hari-afiat:pilih-waktu-afiat:home-afiat:pilih-jam-kerja-pagi-afiat:pilih-jam-kerja-siang-afiat:pilih-jam-kerja-malam-afiat"/>
+    <file name="museutils.js" crc="340535759" ref="rumah-sakit:pilih-dokter:pilih-hari:pilih-jam-kerja-pagi:pilih-waktu:index:tiket:pilih-jam-kerja-siang:pilih-jam-kerja-malam:rumah-sakit-afiat:pilih-dokter-afiat:pilih-hari-afiat:pilih-waktu-afiat:home-afiat:pilih-jam-kerja-pagi-afiat:pilih-jam-kerja-siang-afiat:pilih-jam-kerja-malam-afiat"/>
+    <file name="whatinput.js" crc="86476730" ref="rumah-sakit:pilih-dokter:pilih-hari:pilih-jam-kerja-pagi:pilih-waktu:index:tiket:pilih-jam-kerja-siang:pilih-jam-kerja-malam:rumah-sakit-afiat:pilih-dokter-afiat:pilih-hari-afiat:pilih-waktu-afiat:home-afiat:pilih-jam-kerja-pagi-afiat:pilih-jam-kerja-siang-afiat:pilih-jam-kerja-malam-afiat"/>
+    <file name="museconfig.js" crc="4286661555" ref="rumah-sakit:pilih-dokter:pilih-hari:pilih-jam-kerja-pagi:pilih-waktu:index:tiket:pilih-jam-kerja-siang:pilih-jam-kerja-malam:rumah-sakit-afiat:pilih-dokter-afiat:pilih-hari-afiat:pilih-waktu-afiat:home-afiat:pilih-jam-kerja-pagi-afiat:pilih-jam-kerja-siang-afiat:pilih-jam-kerja-malam-afiat"/>
+    <file name="jquery.watch.js" crc="51536988" ref="rumah-sakit:pilih-dokter:pilih-hari:pilih-jam-kerja-pagi:pilih-waktu:index:tiket:pilih-jam-kerja-siang:pilih-jam-kerja-malam:rumah-sakit-afiat:pilih-dokter-afiat:pilih-hari-afiat:pilih-waktu-afiat:home-afiat:pilih-jam-kerja-pagi-afiat:pilih-jam-kerja-siang-afiat:pilih-jam-kerja-malam-afiat"/>
+    <file name="require.js" crc="7928878" ref="rumah-sakit:pilih-dokter:pilih-hari:pilih-jam-kerja-pagi:pilih-waktu:index:tiket:pilih-jam-kerja-siang:pilih-jam-kerja-malam:rumah-sakit-afiat:pilih-dokter-afiat:pilih-hari-afiat:pilih-waktu-afiat:home-afiat:pilih-jam-kerja-pagi-afiat:pilih-jam-kerja-siang-afiat:pilih-jam-kerja-malam-afiat"/>
+    <file name="webpro.js" crc="4059564322" ref="index:home-afiat"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index:home-afiat"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index:home-afiat"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index:home-afiat"/>
+  </folder>
+  <folder name="images">
+    <file name="afiat.png" crc="4247049080" seo="true" ref="rumah-sakit:pilih-dokter:pilih-hari:pilih-jam-kerja-pagi:pilih-waktu:index:tiket:pilih-jam-kerja-siang:pilih-jam-kerja-malam:rumah-sakit-afiat:pilih-dokter-afiat:pilih-hari-afiat:pilih-waktu-afiat:home-afiat:pilih-jam-kerja-pagi-afiat:pilih-jam-kerja-siang-afiat:pilih-jam-kerja-malam-afiat">
+      <caption webpage="pilih-jam-kerja-malam-afiat" alt=""/>
+      <caption webpage="home-afiat" alt=""/>
+      <caption webpage="rumah-sakit-afiat" alt=""/>
+      <caption webpage="pilih-dokter" alt=""/>
+      <caption webpage="pilih-hari-afiat" alt=""/>
+      <caption webpage="pilih-waktu-afiat" alt=""/>
+      <caption webpage="pilih-jam-kerja-siang" alt=""/>
+      <caption webpage="pilih-jam-kerja-pagi" alt=""/>
+      <caption webpage="pilih-jam-kerja-malam" alt=""/>
+      <caption webpage="pilih-hari" alt=""/>
+      <caption webpage="pilih-jam-kerja-siang-afiat" alt=""/>
+      <caption webpage="tiket" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="pilih-jam-kerja-pagi-afiat" alt=""/>
+      <caption webpage="pilih-waktu" alt=""/>
+      <caption webpage="pilih-dokter-afiat" alt=""/>
+      <caption webpage="rumah-sakit" alt=""/>
+    </file>
+    <file name="rs1.png" crc="4281807969" seo="true" ref="rumah-sakit:rumah-sakit-afiat">
+      <caption webpage="rumah-sakit" alt=""/>
+      <caption webpage="rumah-sakit-afiat" alt=""/>
+    </file>
+    <file name="rs2.png" crc="391724470" seo="true" ref="rumah-sakit:rumah-sakit-afiat">
+      <caption webpage="rumah-sakit" alt=""/>
+      <caption webpage="rumah-sakit-afiat" alt=""/>
+    </file>
+    <file name="rs3.png" crc="19296282" seo="true" ref="rumah-sakit:rumah-sakit-afiat">
+      <caption webpage="rumah-sakit" alt=""/>
+      <caption webpage="rumah-sakit-afiat" alt=""/>
+    </file>
+    <file name="rs4.png" crc="354347116" seo="true" ref="rumah-sakit:rumah-sakit-afiat">
+      <caption webpage="rumah-sakit" alt=""/>
+      <caption webpage="rumah-sakit-afiat" alt=""/>
+    </file>
+    <file name="male doc.png" crc="213433121" seo="true" ref="pilih-dokter:pilih-dokter-afiat">
+      <caption webpage="pilih-dokter" alt=""/>
+      <caption webpage="pilih-dokter" alt=""/>
+      <caption webpage="pilih-dokter" alt=""/>
+      <caption webpage="pilih-dokter" alt=""/>
+      <caption webpage="pilih-dokter" alt=""/>
+      <caption webpage="pilih-dokter" alt=""/>
+      <caption webpage="pilih-dokter-afiat" alt=""/>
+      <caption webpage="pilih-dokter-afiat" alt=""/>
+      <caption webpage="pilih-dokter-afiat" alt=""/>
+      <caption webpage="pilih-dokter-afiat" alt=""/>
+      <caption webpage="pilih-dokter-afiat" alt=""/>
+      <caption webpage="pilih-dokter-afiat" alt=""/>
+    </file>
+    <file name="banner1.jpg" crc="3868465975" seo="true" ref="index:home-afiat">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home-afiat" alt=""/>
+    </file>
+    <file name="banner2.jpg" crc="522827565" seo="true" ref="index:home-afiat">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home-afiat" alt=""/>
+    </file>
+    <file name="banner3.jpg" crc="492884458" seo="true" ref="index:home-afiat">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home-afiat" alt=""/>
+    </file>
+    <file name="tiket-crop-u5348.png" crc="3960155728" seo="true" ref="tiket">
+      <caption webpage="tiket" alt=""/>
+    </file>
+  </folder>
+  <file name="rumah-sakit.html" crc="460962599" seo="true" mt="1561122545388" redirect="true"/>
+  <file name="pilih-dokter.html" crc="27561510" seo="true" mt="1561122557342" redirect="true"/>
+  <file name="pilih-hari.html" crc="234447268" seo="true" mt="1561122568423" redirect="true"/>
+  <file name="pilih-jam-kerja-pagi.html" crc="4026264357" seo="true" mt="1561122591060" redirect="true"/>
+  <file name="pilih-waktu.html" crc="31674571" seo="true" mt="1561122578619" redirect="true"/>
+  <file name="index.html" crc="4285919771" seo="true" mt="1561122521894" redirect="true"/>
+  <file name="tiket.html" crc="3884089192" seo="true" mt="1561114466838" redirect="true"/>
+  <file name="pilih-jam-kerja-siang.html" crc="4062525100" seo="true" mt="1561122599916" redirect="true"/>
+  <file name="pilih-jam-kerja-malam.html" crc="145920253" seo="true" mt="1561122608422" redirect="true"/>
+  <file name="rumah-sakit-afiat.html" crc="4093922148" seo="true" mt="1561114466839" redirect="true"/>
+  <file name="pilih-dokter-afiat.html" crc="194014890" seo="true" mt="1561114466840" redirect="true"/>
+  <file name="pilih-hari-afiat.html" crc="4254411657" seo="true" mt="1561114466840" redirect="true"/>
+  <file name="pilih-waktu-afiat.html" crc="3779064936" seo="true" mt="1561114466841" redirect="true"/>
+  <file name="home-afiat.html" crc="278678936" seo="true" mt="1561119641499" redirect="true"/>
+  <file name="pilih-jam-kerja-pagi-afiat.html" crc="203469068" seo="true" mt="1561114466841" redirect="true"/>
+  <file name="pilih-jam-kerja-siang-afiat.html" crc="228757156" seo="true" mt="1561114466842" redirect="true"/>
+  <file name="pilih-jam-kerja-malam-afiat.html" crc="181683094" seo="true" mt="1561114466842" redirect="true"/>
+</manifest>

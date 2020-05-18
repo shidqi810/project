@@ -1,0 +1,510 @@
+.version.pilih_dokter /* version checker */
+{
+	color: #0000F2;
+	background-color: #B7AB2C;
+}
+
+#page
+{
+	z-index: 1;
+	min-height: 438px;
+	background-image: none;
+	border-width: 0px;
+	border-color: #000000;
+	background-color: transparent;
+	padding-bottom: 62px;
+	width: 100%;
+	max-width: 960px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#u4122
+{
+	z-index: 3;
+	min-height: 82px;
+	background-color: #2E82AF;
+	padding-bottom: 18px;
+}
+
+#u4122_align_to_page
+{
+	margin-left: auto;
+	margin-right: auto;
+	position: relative;
+	max-width: 960px;
+}
+
+#u5259
+{
+	z-index: 54;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 20px;
+	width: 20.11%;
+	left: 2.09%;
+}
+
+#buttonu6588
+{
+	z-index: 56;
+	border-color: #787878;
+	background-color: #666666;
+	border-radius: 10px;
+	padding-bottom: 10px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 32px;
+	width: 15.94%;
+	left: 81.98%;
+}
+
+#buttonu6588:hover
+{
+	background-color: #141414;
+	min-height: 0px;
+	width: 15.94%;
+	margin: 32px -10000px 0px 0%;
+}
+
+#u6589-4
+{
+	z-index: 57;
+	min-height: 18px;
+	background-color: transparent;
+	line-height: 14px;
+	font-size: 12px;
+	text-align: center;
+	color: #FFFFFF;
+	letter-spacing: 1px;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 9px;
+	width: 77.78%;
+	left: 11.12%;
+}
+
+#buttonu6588:hover #u6589-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 18px;
+	width: 77.78%;
+	margin: 9px -10000px 0px 0%;
+}
+
+.js body
+{
+	visibility: hidden;
+}
+
+.js body.initialized
+{
+	visibility: visible;
+}
+
+#u4122-bw
+{
+	z-index: 3;
+	min-height: 82px;
+}
+
+#u4323
+{
+	z-index: 2;
+	background-color: #F5F5F5;
+	padding-bottom: 185px;
+	position: relative;
+	width: 95.84%;
+	margin-left: 2.09%;
+}
+
+#pu4275-4
+{
+	z-index: 4;
+	margin-right: -10000px;
+	margin-top: 82px;
+	width: 54.79%;
+	margin-left: 8.37%;
+}
+
+#u4275-4
+{
+	z-index: 4;
+	min-height: 34px;
+	background-color: transparent;
+	line-height: 29px;
+	font-size: 24px;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+	font-weight: bold;
+	position: relative;
+	width: 76%;
+}
+
+#u4276-4
+{
+	z-index: 8;
+	min-height: 27px;
+	background-color: transparent;
+	margin-top: 7px;
+	position: relative;
+	width: 76%;
+}
+
+#pbuttonu4277
+{
+	z-index: 12;
+	margin-top: 17px;
+	width: 100%;
+}
+
+#buttonu4277
+{
+	z-index: 12;
+	border-color: #787878;
+	background-color: #666666;
+	border-radius: 10px;
+	padding-bottom: 9px;
+	position: relative;
+	margin-right: -10000px;
+	width: 47.62%;
+}
+
+#u4279
+{
+	z-index: 17;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 9px;
+	width: 17.09%;
+	left: 7.09%;
+}
+
+#u4278-4
+{
+	z-index: 13;
+	min-height: 9px;
+	background-color: transparent;
+	font-size: 14px;
+	text-align: center;
+	color: #FFFFFF;
+	letter-spacing: 1px;
+	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 21px;
+	width: 70.84%;
+	left: 24.17%;
+}
+
+#buttonu4281
+{
+	z-index: 19;
+	border-color: #787878;
+	background-color: #666666;
+	border-radius: 10px;
+	padding-bottom: 9px;
+	position: relative;
+	margin-right: -10000px;
+	width: 47.82%;
+	left: 52.19%;
+}
+
+#u4283
+{
+	z-index: 24;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 9px;
+	width: 17.02%;
+	left: 7.06%;
+}
+
+#u4282-4
+{
+	z-index: 20;
+	min-height: 9px;
+	background-color: transparent;
+	font-size: 14px;
+	text-align: center;
+	color: #FFFFFF;
+	letter-spacing: 1px;
+	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 21px;
+	width: 70.54%;
+	left: 24.07%;
+}
+
+#pbuttonu4365
+{
+	z-index: 33;
+	margin-top: 17px;
+	width: 100%;
+}
+
+#buttonu4365
+{
+	z-index: 33;
+	border-color: #787878;
+	background-color: #666666;
+	border-radius: 10px;
+	padding-bottom: 9px;
+	position: relative;
+	margin-right: -10000px;
+	width: 47.62%;
+}
+
+#buttonu4277:hover,#buttonu4365:hover
+{
+	background-color: #141414;
+	min-height: 0px;
+	width: 47.62%;
+	margin: 0px -10000px 0px 0%;
+}
+
+#u4367
+{
+	z-index: 38;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 9px;
+	width: 17.09%;
+	left: 7.09%;
+}
+
+#buttonu4277:hover #u4279,#buttonu4365:hover #u4367
+{
+	min-height: 0px;
+	width: 17.09%;
+	margin: 9px -10000px 0px 0%;
+}
+
+#u4366-4
+{
+	z-index: 34;
+	min-height: 9px;
+	background-color: transparent;
+	font-size: 14px;
+	text-align: center;
+	color: #FFFFFF;
+	letter-spacing: 1px;
+	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 21px;
+	width: 70.84%;
+	left: 24.17%;
+}
+
+#buttonu4277:hover #u4278-4,#buttonu4365:hover #u4366-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 9px;
+	width: 70.84%;
+	margin: 21px -10000px 0px 0%;
+}
+
+#buttonu4369
+{
+	z-index: 40;
+	border-color: #787878;
+	background-color: #666666;
+	border-radius: 10px;
+	padding-bottom: 9px;
+	position: relative;
+	margin-right: -10000px;
+	width: 47.82%;
+	left: 52.19%;
+}
+
+#buttonu4281:hover,#buttonu4369:hover
+{
+	background-color: #141414;
+	min-height: 0px;
+	width: 47.82%;
+	margin: 0px -10000px 0px 0%;
+}
+
+#u4371
+{
+	z-index: 45;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 9px;
+	width: 17.02%;
+	left: 7.06%;
+}
+
+#u4370-4
+{
+	z-index: 41;
+	min-height: 9px;
+	background-color: transparent;
+	font-size: 14px;
+	text-align: center;
+	color: #FFFFFF;
+	letter-spacing: 1px;
+	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 21px;
+	width: 70.54%;
+	left: 24.07%;
+}
+
+#pbuttonu4285
+{
+	z-index: 26;
+	margin-right: -10000px;
+	margin-top: 167px;
+	width: 26.2%;
+	margin-left: 65.66%;
+}
+
+#buttonu4285
+{
+	z-index: 26;
+	border-color: #787878;
+	background-color: #666666;
+	border-radius: 10px;
+	padding-bottom: 9px;
+	position: relative;
+	width: 100%;
+}
+
+#buttonu4285:hover
+{
+	background-color: #141414;
+	min-height: 0px;
+	width: 100%;
+	margin: 0px 0px 0px 0%;
+}
+
+#u4286
+{
+	z-index: 31;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 9px;
+	width: 17.02%;
+	left: 7.06%;
+}
+
+#u4288-4
+{
+	z-index: 27;
+	min-height: 9px;
+	background-color: transparent;
+	font-size: 14px;
+	text-align: center;
+	color: #FFFFFF;
+	letter-spacing: 1px;
+	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 21px;
+	width: 70.54%;
+	left: 24.07%;
+}
+
+#buttonu4373
+{
+	z-index: 47;
+	border-color: #787878;
+	background-color: #666666;
+	border-radius: 10px;
+	padding-bottom: 9px;
+	margin-top: 17px;
+	position: relative;
+	width: 100%;
+}
+
+#buttonu4373:hover
+{
+	background-color: #141414;
+	min-height: 0px;
+	width: 100%;
+	margin: 17px 0px 0px 0%;
+}
+
+#u4375
+{
+	z-index: 52;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 9px;
+	width: 17.02%;
+	left: 7.06%;
+}
+
+#buttonu4281:hover #u4283,#buttonu4369:hover #u4371,#buttonu4285:hover #u4286,#buttonu4373:hover #u4375
+{
+	min-height: 0px;
+	width: 17.02%;
+	margin: 9px -10000px 0px 0%;
+}
+
+#u5259_img,#u4279_img,#u4283_img,#u4367_img,#u4371_img,#u4286_img,#u4375_img
+{
+	width: 100%;
+}
+
+#u4374-4
+{
+	z-index: 48;
+	min-height: 9px;
+	background-color: transparent;
+	font-size: 14px;
+	text-align: center;
+	color: #FFFFFF;
+	letter-spacing: 1px;
+	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 21px;
+	width: 70.54%;
+	left: 24.07%;
+}
+
+#buttonu4281:hover #u4282-4,#buttonu4369:hover #u4370-4,#buttonu4285:hover #u4288-4,#buttonu4373:hover #u4374-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 9px;
+	width: 70.54%;
+	margin: 21px -10000px 0px 0%;
+}
+
+#buttonu6588:hover #u6589-4 p,#buttonu4277:hover #u4278-4 p,#buttonu4281:hover #u4282-4 p,#buttonu4365:hover #u4366-4 p,#buttonu4369:hover #u4370-4 p,#buttonu4285:hover #u4288-4 p,#buttonu4373:hover #u4374-4 p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+.css_verticalspacer .verticalspacer
+{
+	height: calc(100vh - 646px);
+}
+
+#muse_css_mq,.html
+{
+	background-color: #FFFFFF;
+}
+
+body
+{
+	position: relative;
+	min-width: 320px;
+}
+

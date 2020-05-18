@@ -1,0 +1,15 @@
+body {
+    padding-top: 56px;
+}
+
+.custom-bg-navbar {
+    background-color: #0051ff !important;
+}
+.custom-box-text {
+    border: 1px solid rgb(204, 204, 204);
+    padding: 15px;
+    display: block;
+    width:600px;
+    height:70px;
+    text-align: center;
+}
